@@ -6,3 +6,8 @@
 
 # output
 [输出(output)](https://www.webpackjs.com/concepts/output/)
+
+# vue-webpack
+## vue-webpack4-demo 
+[vue项目升级webpack4指南](https://segmentfault.com/a/1190000014516899)
+[Github 地址](https://github.com/Youzhigang/vue-webpack4-demo)
